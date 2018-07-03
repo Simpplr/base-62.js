@@ -1,6 +1,5 @@
 {
-  "name": "base-62.js",
-  "repository": "https://github.com/bnorton/base-62.js.git",
+  "name": "base-62.js-norand",
   "version": "0.9.9",
   "license": "MIT",
   "description": "Base62 + big.js | Convert Strings an Numbers to Base62 without worrying about overflowing Number.MAX_SAFE_INTEGER",
